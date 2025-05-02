@@ -1,6 +1,6 @@
 ﻿# Exercícios do Beecrowd
 
-A maior parte (se não todos) os nomes dos arquivos referenciam a um problema resolvido do site judje.beecrowd
+A maior parte (se não todos) os nomes dos arquivos referenciam a um problema resolvido do site judge.beecrowd
  
  Conforme eu for resolvendo mais exercícios eu irei subindo os arquivos.
  
